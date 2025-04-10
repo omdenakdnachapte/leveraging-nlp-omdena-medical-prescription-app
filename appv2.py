@@ -1,3 +1,6 @@
+#removed faiss
+
+
 # Streamlit app for modeling task 4
 ## @madakixo
 # Purpose: Deploy a neural network to classify diseases based on symptoms, using TF-IDF features.
